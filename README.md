@@ -12,7 +12,7 @@ A fast implementation of a (templatized) circular queue container (with `std::ve
 
 To compile with g++
 
-```g++ fast-queue.cpp -o fast-queue```
+```g++ fast-queue.cpp -o fast-queue -std=c++0x```
 
 ### Available functions
 
