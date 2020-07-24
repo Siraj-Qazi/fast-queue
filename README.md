@@ -16,7 +16,7 @@ To compile with g++
 
 ### Available functions
 
-```FastQueue::enqueue(T&)``` : (Circularly) Enqueue an element 
+```FastQueue::enqueue(const T&)``` : (Circularly) Enqueue an element 
 
 ```FastQueue::dequeue()``` : Dequeue an element
 
